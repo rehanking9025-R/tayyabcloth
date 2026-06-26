@@ -1,0 +1,6 @@
+{
+  "name": "Tayyab Cloth House",
+  "description": "Premium Pakistani clothing boutique in Lahore, Pakistan offering luxurious bridal wear, formal wear, and elegant seasonal collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
